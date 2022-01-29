@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TitanSarim
-- 👀 I’m interested in Web and app development
+- 👀 I’m a Web/app developer and A data analyst 
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ...
